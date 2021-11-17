@@ -18,7 +18,7 @@
 
 <p  align="center">
 
-<p align="center">
+<p>
 <a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 <a href="mailto:dianalauragomezaraujo@gmail.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/>
 </p>
