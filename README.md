@@ -3,7 +3,7 @@
 
   
 
-## I'm a Jr Full Stack Developer
+## I'm Full Stack Developer
 
   
 
