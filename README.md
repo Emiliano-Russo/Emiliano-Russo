@@ -23,6 +23,6 @@
 <a href="mailto:emiliano.russo@outlook.com"><img src="https://img.icons8.com/color/48/000000/ms-outlook.png"/>
 </p>
 
-<a  href="https://github.com/Emiliano-Russo"><img  align="center"  src="https://github-readme-stats.vercel.app/api?username=emiliano-russo&show_icons=true&theme=dracula"  alt="DianaAraujoG"  height="192px"/></a>
+
 
 </p>
