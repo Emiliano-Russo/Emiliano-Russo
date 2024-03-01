@@ -9,7 +9,7 @@
 
 - 🚀 I love coding
 
-- 🌱 I’m currently learning!
+- 🌱 I’m always learning!
 
 - 👯 I’m looking to collaborate with other content creators
 
