@@ -1,9 +1,9 @@
 
-### Hi there, I'm Emiliano
+## Hi there, I'm Emiliano
 
   
 
-## I'm Full Stack Developer
+### I'm Full Stack Developer
 
   
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m always learning!
 
-- 👯 I’m looking to collaborate with other content creators
+- 💡 I’m enthusiastic about solving challenging problems with code
 
   
 # Conect with Me
